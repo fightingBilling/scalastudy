@@ -1,0 +1,2 @@
+# scalastudy
+scala akka etc.
